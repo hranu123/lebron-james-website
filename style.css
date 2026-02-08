@@ -11,18 +11,18 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #8c00ff;
+  background-color: #ffee00;
   display: flex;
   justify-content: center;
 }
 
 ul li a {
   display: block;
-  color: rgb(158, 8, 8);
+  color: rgb(132, 0, 255);
   padding: 14px 16px;
   text-decoration: none;
 }
 
 ul li a:hover {
-  background-color: #ffd900;
+  background-color: #5f0000;
 }
