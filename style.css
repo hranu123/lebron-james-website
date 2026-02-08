@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
 body {
   margin: 0;
   padding: 0;
@@ -26,7 +22,7 @@ ul li {
 ul li a {
   display: block;
   color: white;
-  text-align: center;
+  text-align: center  ;
   padding: 14px 16px;
   text-decoration: none;
 }
@@ -38,6 +34,3 @@ ul li a:hover:not(.active) {
 ul li a.active {
   background-color: #04AA6D;
 }
-</style>
-</head>
-<body>
