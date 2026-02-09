@@ -1,6 +1,6 @@
 body{
-  
-color:rgb(111, 0, 255);
+  font-family: "Tahoma", serif;
+color:rgb(255, 230, 0);
 background-color:rgb(111, 0, 255);
 font-size:20px;
   text-align: center;
@@ -9,42 +9,23 @@ font-size:20px;
 
 
 h1 {
-    font-family: "Bebas Neue", sans-serif;
+    font-family: "Tahoma", serif;
   font-size:50px;
   text-align: center;
-  text-shadow: 5px 5px 3 rgb(146, 2, 2);
-letter-spacing: 2px;
+text-shadow: 4px 4px 0 rgb(134, 1, 1)
 }
 
  h2 {
-font-family: "Bebas Neue", sans-serif;
-font-size: 40px;
+font-family: "Tahoma", serif;;
+font-size: 50px;
 text-align: center;
-text-shadow: 5px 5px 3 rgb(146, 2, 2);
-letter-spacing: 2px;
+text-shadow: 4px 4px 0 rgb(134, 1, 1)
 }
-
 p {
-font-size: 20px;
-  text-shadow: 5px 5px 3 rgb(146, 2, 2);
-font-family: "Montserrat," sans-serif;
- text-align: left;
-  line-height: 1.8;
-}
-.rainbow-heading span {
-  display: inline-block;  
-  margin-right: 7px;     
-  font-weight: bold;
-  font-size: 48px;
-}
-.rainbow-heading span:nth-child(odd) {
-  color: rgb(107, 2, 107);
-}
+text-shadow: 4px 4px 0 rgb(146, 2, 2)
 
-.rainbow-heading span:nth-child(even) {
-  color: rgb(223, 182, 0)  ;
-}
 
+}
 
 
 
