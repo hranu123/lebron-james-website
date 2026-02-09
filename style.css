@@ -26,6 +26,7 @@ ul li a {
 ul li a:hover {
   background-color:rgb(146, 2, 2);
 }
+<<<<<<< HEAD
 
 
 
@@ -115,3 +116,5 @@ border-bottom: 7px solid rgb(146, 2, 2);
 
   object-fit: cover;
 }
+=======
+>>>>>>> 22f0e0f8603162e8a0aed267a610cf00aa7b7f7c
